@@ -1,0 +1,7 @@
+model_group,model,valence_diff,valence_err,warmth_diff,warmth_err,competence_diff,competence_err
+Trained in this project,CaVe,-0.16,0.03,-0.52,0.08,+0.19,0.04
+Trained in this project,CaVe Wikipedia,-0.14,0.04,-0.48,0.06,+0.13,0.02
+Trained in this project,CaVe News,-0.15,0.03,-0.58,0.08,+0.18,0.05
+Trained in this project,CaVe Forums,+0.01,0.04,-0.22,0.04,+0.08,0.03
+BSC models,BSC Skip-gram 300,-0.17,0.03,-0.47,0.05,+0.20,0.05
+Original fastText models,fastText Wikipedia + Crawling,-0.10,0.04,-0.69,0.13,+0.09,0.03

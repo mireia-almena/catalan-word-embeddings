@@ -1,0 +1,14 @@
+model,purity_mean,purity_std
+wiki.ca,0.3718,0.0196
+ft_skipg_d100,0.4710,0.0219
+ft_cbow_d300,0.5145,0.0197
+ours_all_300,0.4855,0.0284
+ft_cbow_d50,0.5145,0.0260
+floret_embeddings_ca,0.4302,0.0271
+ours_racoforumsanon_300,0.4969,0.0256
+ft_skipg_d50,0.4672,0.0207
+ours_news_300,0.4046,0.0288
+ft_skipg_d300,0.4611,0.0362
+cc.ca.300,0.4656,0.0331
+ours_wikipedia_300,0.3687,0.0199
+ft_cbow_d100,0.5221,0.0282
