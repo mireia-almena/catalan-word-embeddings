@@ -68,6 +68,7 @@ when using these adaptations, in addition to citing this repository.
 
 ## Citation
 
+```bibtex
 @mastersthesis{almena-2026-catalan,
   author = {Almena, Mireia},
   title  = {Catalan Word Embeddings: A New Benchmark Suite and {LGBT}+ Bias Analysis},
@@ -75,3 +76,4 @@ when using these adaptations, in addition to citing this repository.
   year   = {2026},
   type   = {Master's thesis}
 }
+```
