@@ -1,4 +1,4 @@
-Catalan Word Embeddings: A New Benchmark Suite and LGBT+ Bias Analysis
+# Catalan Word Embeddings: A New Benchmark Suite and LGBT+ Bias Analysis
 
 This repository contains the code, evaluation benchmarks, and analysis 
 pipeline for Catalan Word Embeddings: A New Benchmark Suite and LGBT+ Analysis, a master's thesis investigating LGBT+ bias 
@@ -53,8 +53,8 @@ requirements.
 
 ## License
 
-This repository — including all code, the CaVa datasets, and the CaVe 
-models — is licensed under [CC-BY 4.0](LICENSE). You are free to use, 
+This repository (including all code, the CaVa datasets, and the CaVe 
+models) is licensed under [CC-BY 4.0](LICENSE). You are free to use, 
 share, and adapt any part of it, including for commercial purposes, 
 provided appropriate credit is given.
 
