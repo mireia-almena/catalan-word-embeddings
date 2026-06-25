@@ -58,8 +58,7 @@ CaVa benchmark datasets © 2026 Mireia Almena
 
 This work is licensed under the Creative Commons Attribution 4.0
 International License (CC BY 4.0). To view a copy of this license,
-visit https://creativecommons.org/licenses/by/4.0/ or see the full
-legal code below.
+visit https://creativecommons.org/licenses/by/4.0/.
 
 The CaVa benchmark datasets (CaVa-CC, CaVa-WS, CaVa-WA, CaVa-ICC) are
 adapted in part from existing datasets (BATTIG, WordSim-353, Google
