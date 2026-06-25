@@ -1,7 +1,7 @@
 # Catalan Word Embeddings: A New Benchmark Suite and LGBT+ Bias Analysis
 
 This repository contains the code, evaluation benchmarks, and analysis 
-pipeline for Catalan Word Embeddings: A New Benchmark Suite and LGBT+ Analysis, a master's thesis investigating LGBT+ bias 
+pipeline for Catalan Word Embeddings: A New Benchmark Suite and LGBT+ Bias Analysis, a master's thesis investigating LGBT+ bias 
 in static Catalan word embeddings.
 
 This project contributes:
@@ -18,8 +18,8 @@ This project contributes:
 | Dataset | Task | Size | Adapted from |
 |---|---|---|---|
 | CaVa-CC | Concept categorisation | 83 concepts, 10 categories | BATTIG (Baroni & Lenci, 2010) |
-| CaVa-WS | Word similarity | 353 pairs | WordSim-353 (Finkelstein et al., 2001) |
-| CaVa-WA | Word analogy | ~14,600 questions | Google Analogy (Mikolov et al., 2013) |
+| CaVa-WS | Word similarity | 300 pairs | WordSim-353 (Finkelstein et al., 2001) |
+| CaVa-WA | Word analogy | 14,328 questions | Google Analogy (Mikolov et al., 2013) |
 | CaVa-ICC | Informal categorisation | 131 concepts, 15 categories | Original |
 
 ## Models (CaVe)
@@ -53,12 +53,25 @@ requirements.
 
 ## License
 
-This repository (including all code, the CaVa datasets, and the CaVe 
-models) is licensed under [CC-BY 4.0](LICENSE). You are free to use, 
-share, and adapt any part of it, including for commercial purposes, 
-provided appropriate credit is given.
+Catalan Word Embeddings: A New Benchmark Suite and LGBT+ Bias Analysis
+CaVa benchmark datasets © 2026 Mireia Almena
 
-Note: the CaVa benchmarks are adapted from existing datasets (BATTIG, 
-WordSim-353, Google Analogy); please also cite the original sources 
-listed in the thesis and in the LICENSE file when using these 
-adaptations.
+This work is licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0). To view a copy of this license,
+visit https://creativecommons.org/licenses/by/4.0/ or see the full
+legal code below.
+
+The CaVa benchmark datasets (CaVa-CC, CaVa-WS, CaVa-WA, CaVa-ICC) are
+adapted in part from existing datasets (BATTIG, WordSim-353, Google
+Analogy). Please also cite the original sources listed in the thesis
+when using these adaptations, in addition to citing this repository.
+
+## Citation
+
+@mastersthesis{almena-2026-catalan,
+  author = {Almena, Mireia},
+  title  = {Catalan Word Embeddings: A New Benchmark Suite and {LGBT}+ Bias Analysis},
+  school = {Universitat Pompeu Fabra},
+  year   = {2026},
+  type   = {Master's thesis}
+}
